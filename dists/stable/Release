@@ -1,1 +1,7 @@
-
+Origin: Winters OS Official
+Label: Winters OS
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: Official Package Repository for Winters 1.0
