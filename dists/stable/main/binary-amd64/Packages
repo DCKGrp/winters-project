@@ -4,4 +4,5 @@ Architecture: all
 Maintainer: Sato Nagisa <nagi-sato@users.noreply.github.com>
 Filename: pool/main/Winters1.026H2-buildver-26.0.0.0-Insider Preview.deb
 Size: 1666
+SHA256: c2bc64b0b67e4a22108a34df4c11d0bacb9bbd31a0c04c8c1b9ece989e224217
 Description: Official installation slideshow for Winters OS 1.0 (26H2).
