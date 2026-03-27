@@ -1,1 +1,7 @@
-
+Package: winters-desktop-slideshow
+Version: 26.0.0.0
+Architecture: all
+Maintainer: Sato Nagisa <nagi-sato@users.noreply.github.com>
+Filename: pool/main/Winters1.026H2-buildver-26.0.0.0-Insider Preview.deb
+Size: 1666
+Description: Official installation slideshow for Winters OS 1.0 (26H2).
