@@ -2,6 +2,11 @@ Origin: Winters OS Official
 Label: Winters OS
 Suite: stable
 Codename: stable
+Date: Fri, 10 Apr 2026 03:15:00 +0900
 Architectures: amd64
 Components: main
 Description: Official Package Repository for Winters 1.0
+MD5Sum:
+ 59d92049edf72f59780eb369856848a0  main/binary-amd64/Packages
+SHA256:
+　67f2ff0f426570a52755c7aca2fa4b08c8111c7e5ba68667cbb00162ec3339c5 main/binary-amd64/Packages
