@@ -12,7 +12,9 @@ Version: 1.0
 Architecture: all
 Maintainer: Sato Nagisa <nagi-sato@users.noreply.github.com>
 Depends: python3, python3-pyside6, libegl1, libgl1-mesa-glx
-Filename: pool/main/sakura-shell.deb
+Filename: pool/main/sakura-shell_1.0_all.deb
+Size: 2068
+SHA256: 67f2ff0f426570a52755c7aca2fa4b08c8111c7e5ba68667cbb00162ec3339c5
 Description: Sakura Shell for Winters OS
  Sakura Shell is a beautiful terminal for Winters OS.
  It features a cherry blossom theme and bash integration.
