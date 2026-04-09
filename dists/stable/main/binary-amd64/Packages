@@ -6,3 +6,13 @@ Filename: pool/main/winters-v26.deb
 Size: 1658
 SHA256: 15126c2921583960fbb2eaff0c00f9ade58334655a8e261e7ac7f50d7d9b8193
 Description: Official installation slideshow for Winters OS 1.0 (26H2).
+
+Package: sakura-shell
+Version: 1.0
+Architecture: all
+Maintainer: Sato Nagisa <nagi-sato@users.noreply.github.com>
+Depends: python3, python3-pyside6, libegl1, libgl1-mesa-glx
+Filename: pool/main/sakura-shell.deb
+Description: Sakura Shell for Winters OS
+ Sakura Shell is a beautiful terminal for Winters OS.
+ It features a cherry blossom theme and bash integration.
